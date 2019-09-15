@@ -1,0 +1,12 @@
+
+node_modules/typescript/.yarnrc
+
+node_modules/.bin/
+
+node_modules/
+
+main.ts
+
+package-lock.json
+
+Person.ts
